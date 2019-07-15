@@ -1,0 +1,15 @@
+Front End--------------
+
+HTML5
+CSS
+Java Script
+
+Back End----------------
+
+Java 1.8
+Spring Boot 2
+SQL
+
+Testing-----------------
+
+BDD
